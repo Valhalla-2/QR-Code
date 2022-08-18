@@ -1,2 +1,2 @@
-# QR-Code
-QR code challenge by Frontend Mentor 
+# qr-code
+qr code challange by frontend mentor
